@@ -1,18 +1,10 @@
 # 网络安全应急响应工具(系统痕迹采集)-FireKylin
 
-# 项目各个地址
-```
-下载地址：https://github.com/MountCloud/FireKylin/releases
-项目主页（建设中）：http://firekylin.tool.red/
-项目Github：https://github.com/MountCloud/FireKylin
-v1版本问题可能比较多，欢迎大家反馈：
-问题反馈：https://github.com/MountCloud/FireKylin/issues
-```
 # FireKylin介绍
 
 &nbsp;&nbsp;&nbsp;&nbsp;FireKylin中文名称叫：火麒麟，其实跟某氪金游戏火麒麟并没有关系，作为国产的网络安全工具名称取自中国神兽：麒麟。寓意是希望能够为守护中国网络安全作出一份贡献。
 
-&nbsp;&nbsp;&nbsp;&nbsp;其功能是收集操作系统各项痕迹。
+&nbsp;&nbsp;&nbsp;&nbsp;其功能是收集操作系统各项痕迹，支持Windows和Linux痕迹收集。
 
 &nbsp;&nbsp;&nbsp;&nbsp;其作用是为分析研判安全事件提供操作系统数据。
 
