@@ -1,10 +1,6 @@
 # 网络安全应急响应工具(系统痕迹采集)-FireKylin
 
-# 前言
-
-当网络安全事件发生时，经常需要网络安全专家上机检查安全事件，但是目前网络安全应急场景非常缺少应急响应辅助工具，小编推荐一款MountCloud大神制作发布的一款国产并且免费的网络安全应急响应工具，能够采集Windows和Linux系统的痕迹，辅助安全专家进行安全事件分析。
-
-# 下载
+# 项目各个地址
 ```
 下载地址：https://github.com/MountCloud/FireKylin/releases
 项目主页（建设中）：http://firekylin.tool.red/
