@@ -14,6 +14,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;FireKylin的使用方式很简单，将Agent程序上传到需要检测的主机上，运行Agent程序，将采集到的数据.fkld文件下载下来，用界面程序加载数据就可以查看主机中的用户、进程、服务等信息，并且Agent最大的特点就是【0命令采集】对安装了监控功能的安全软件的主机来讲是非常友好的，不会对监控软件产生引起“误报安全事件”的命令。
 
+## 下载
+
+https://github.com/MountCloud/FireKylin/releases
+
 ## 交流
 
 QQ群：337571436
