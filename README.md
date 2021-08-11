@@ -22,6 +22,44 @@ https://github.com/MountCloud/FireKylin/releases
 
 QQ群：337571436
 
+## 更新日志
+
+### 【v1.1.2】 2021-08-12
+
+```
+中文：
+1：Gui进程列表使用进程ID进行升序排序。
+2：Gui Windows日志添加全文搜索框，支持每列以及事件信息内容匹配。
+3：LinuxAgent修复目录不存在时搜索目录导致的报错问题。
+4：LinuxAgent修复日志无法正常提取问题。
+5：WindowsAgent修复Security日志与System日志无法提取问题。
+6：Gui优化fkld解析过程，所以无法支持老版本的数据解析。
+English：
+1: Gui process list is sorted in ascending order using process ID.
+2: Gui Windows log box to add full-text search, support columns, and each event information content match.
+3: LinuxAgent repairs the error report caused by searching the directory when the directory does not exist.
+4: LinuxAgent fixes the problem that the log cannot be extracted normally.
+5: WindowsAgent fixes the problem that the Security log and System log cannot be extracted.
+6: Gui optimizes the fkld parsing process, so it cannot support the data parsing of the old version.
+```
+
+### 【v1.0.1】 2021-08-09
+
+```
+中文：
+1：Gui支持Windows。
+2：Agent支持Windows和Linux。
+3：Agent-Windows支持采集：用户、进程、启动项、服务、网络信息、计划任务、系统日志。
+4：Agent-Linux支持采集：用户、进程、启动项、服务、网络信息、历史命令、系统日志。
+5：Gui内置中文和英文，支持扩展语言。
+English：
+1: Gui supports Windows.
+2: Agent supports Windows and Linux.
+3: Agent-Windows supports collection: users, processes, startup items, services, network information, scheduled tasks, and system logs.
+4: Agent-Linux supports collection: users, processes, startup items, services, network information, historical commands, and system logs.
+5: Gui has built-in Chinese and English, and supports extended languages.
+```
+
 ## v1.0.1客户端界面
 &nbsp;&nbsp;&nbsp;&nbsp;目前版本更新到了v1.0.1，Agent支持Linux、Windows操作系统，Gui则只支持Windows操作系统。
 
