@@ -25,6 +25,19 @@ QQ群：337571436
 
 ## 更新日志
 
+
+### 【v1.2.5】 2021-08-20
+
+```
+中文：
+1：修复服务列表无法进行搜索问题。
+2：服务列表支持全列搜索。
+English：
+1: Fix the problem that the service list cannot be searched.
+2: The service list supports full-column search.
+```
+
+
 ### 【v1.2.4】 2021-08-19
 
 ```
