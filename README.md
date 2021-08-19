@@ -25,6 +25,18 @@ QQ群：337571436
 
 ## 更新日志
 
+### 【v1.2.4】 2021-08-19
+
+```
+中文：
+1：修复由于Windows和Linux的数据保存算法计算结果存在差异，导致无法解析Linux数据文件的问题。
+2：优化fkld文件结构，提升数据兼容性验证。
+English：
+1: Fix the problem that Linux data files cannot be parsed due to differences in the calculation results of Windows and Linux data saving algorithms.
+2: Optimize the fkld file structure and improve data compatibility verification.
+```
+
+
 ### 【v1.2.3】 2021-08-17
 
 ```
