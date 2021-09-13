@@ -25,6 +25,20 @@ QQ群：337571436
 
 ## 更新日志
 
+### 【v1.3.2】 2021-09-13
+
+```
+中文：
+1：优化Agent配置UI中Syslog的时间配置选项，将选项中的复选框改为两个单选框。
+English：
+1: Optimized the Syslog time configuration option in the Agent configuration UI, and changed the check box in the option to two radio boxes.
+```
+
+### v1.3.2 Agent Config UI
+
+![](images/firekylin-v1.3.2-agent-config.png)
+
+
 ### 【v1.3.1】 2021-09-13
 
 ```
@@ -34,20 +48,6 @@ QQ群：337571436
 English：
 1: You can use the GUI to configure the Agent, the configuration file suffix [.fklc], the function is located in: Menu -> Operation -> Agent Config.
 2: Windows and Linux allow the use of [.fklc] files for configuration.
-```
-### v1.3.1 Agent Config UI
-
-![](images/firekylin-v1.3.1-agent-config.png)
-
-### 【v1.2.5】 2021-08-20
-
-```
-中文：
-1：修复服务列表无法进行搜索问题。
-2：服务列表支持全列搜索。
-English：
-1: Fix the problem that the service list cannot be searched.
-2: The service list supports full-column search.
 ```
 
 ```
