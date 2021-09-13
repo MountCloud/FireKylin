@@ -35,7 +35,8 @@ English：
 1: You can use the GUI to configure the Agent, the configuration file suffix [.fklc], the function is located in: Menu -> Operation -> Agent Config.
 2: Windows and Linux allow the use of [.fklc] files for configuration.
 ```
-### 
+### v1.3.1 Agent Config UI
+
 ![](images/firekylin-v1.3.1-agent-config.png)
 
 ### 【v1.2.5】 2021-08-20
