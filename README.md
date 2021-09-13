@@ -25,6 +25,17 @@ QQ群：337571436
 
 ## 更新日志
 
+### 【v1.3.1】 2021-09-13
+
+```
+中文：
+1：可以使用GUI配置Agent，配置文件后缀[.fklc]，功能位于：菜单->操作->配置Agent。
+2：Windows与Linux允许使用[.fklc]文件进行配置。
+English：
+1: You can use the GUI to configure the Agent, the configuration file suffix [.fklc], the function is located in: Menu -> Operation -> Agent Config.
+2: Windows and Linux allow the use of [.fklc] files for configuration.
+```
+
 
 ### 【v1.2.5】 2021-08-20
 
@@ -35,18 +46,6 @@ QQ群：337571436
 English：
 1: Fix the problem that the service list cannot be searched.
 2: The service list supports full-column search.
-```
-
-
-### 【v1.2.4】 2021-08-19
-
-```
-中文：
-1：修复由于Windows和Linux的数据保存算法计算结果存在差异，导致无法解析Linux数据文件的问题。
-2：优化fkld文件结构，提升数据兼容性验证。
-English：
-1: Fix the problem that Linux data files cannot be parsed due to differences in the calculation results of Windows and Linux data saving algorithms.
-2: Optimize the fkld file structure and improve data compatibility verification.
 ```
 
 ```
