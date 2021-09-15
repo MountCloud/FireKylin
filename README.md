@@ -25,6 +25,23 @@ QQ群：337571436
 
 ## 更新日志
 
+### 【v1.3.3】 2021-09-16
+
+```
+中文：
+1：修复windows agent网络采集的致命错误。
+2：修复windows agent网络连接中远程地址采集错误问题。
+3：修复windows agent网络连接中端口采集错误问题。
+4：linux agent syslog添加/var/log/auth.log采集。
+5：GUI网络搜索修复搜索错乱问题，并且忽略英文大小写。
+English：
+1: Repair the fatal error of windows agent network collection.
+2: Fix the problem of remote address collection error in windows agent network connection.
+3: Fix the problem of port collection error in windows agent network connection.
+4: Linux agent syslog adds /var/log/auth.log collection.
+5: GUI network search fixes the search confusion problem, and ignores English capitalization.
+```
+
 ### 【v1.3.2】 2021-09-13
 
 ```
