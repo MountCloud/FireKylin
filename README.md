@@ -25,6 +25,25 @@ QQ群：337571436
 
 ## 更新日志
 
+### 【v1.4.0】 2021-12-20
+
+```
+中文：
+1：*特大更新，集成FireDog病毒检测引擎，支持进程内存、进程路径、进程链接库以及自定义路径病毒检测。
+2：*特大更新，对界面的美观程度做了优化。
+3：修复windows agent在采集系统日志（事件）时内存占用过高问题。
+4：内置与当前版本配套的FireDogEditor。
+English：
+1: * extra large update, integrated with firedog virus detection engine, supports process memory, process path, process link library and custom path virus detection.
+2: * extra large update to optimize the beauty of the interface.
+3: Fix the problem that windows agent occupies too much memory when collecting system logs (events).
+4: Built in FireDogEditor with the current version.
+```
+
+![](images/firekylin-v1.4.0-ui.png)
+
+![](images/firekylin-v1.4.0-agent-config.png)
+
 ### 【v1.3.3】 2021-09-16
 
 ```
@@ -49,22 +68,6 @@ English：
 1：优化Agent配置UI中Syslog的时间配置选项，将选项中的复选框改为两个单选框。
 English：
 1: Optimized the Syslog time configuration option in the Agent configuration UI, and changed the check box in the option to two radio boxes.
-```
-
-### v1.3.2 Agent Config UI
-
-![](images/firekylin-v1.3.2-agent-config.png)
-
-
-### 【v1.3.1】 2021-09-13
-
-```
-中文：
-1：可以使用GUI配置Agent，配置文件后缀[.fklc]，功能位于：菜单->操作->配置Agent。
-2：Windows与Linux允许使用[.fklc]文件进行配置。
-English：
-1: You can use the GUI to configure the Agent, the configuration file suffix [.fklc], the function is located in: Menu -> Operation -> Agent Config.
-2: Windows and Linux allow the use of [.fklc] files for configuration.
 ```
 
 ```
